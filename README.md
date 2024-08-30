@@ -1,6 +1,9 @@
 # Repositorio para Challenges HTML y CSS
 
 ## 1er Ejercicio: Plantilla de portafolio personal
+
+El objetivo de este primer ejercicio es familiarizarce con los elementos html y con el css.
+
 - Dentro de la carpeta 1.PlantillaPortfolio se encuentras los archivos a trabajar.
 - Reemplaza la imagen: Reemplaza "imagen-de-perfil.jpg" con el nombre de tu propia imagen.
 - Personaliza el contenido: Cambia el nombre, la descripción y los enlaces de redes sociales.
