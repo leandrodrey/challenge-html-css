@@ -18,4 +18,5 @@ El objetivo de este primer ejercicio es familiarizarce con los elementos html y 
 # 📚 Videos:
 - HTML desde 0: https://www.youtube.com/watch?v=3nYLTiY5skU
 - CSS desde 0: https://www.youtube.com/watch?v=hrxjBqZWsb0
+- - Flexbox: https://www.youtube.com/watch?v=JJSoEo8JSnc
 
