@@ -11,3 +11,8 @@
 - https://www.auladiv.com/ejercicios/html-basico/
 - https://www.frontendmentor.io/challenges
 - - https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm
+
+# 📚 Videos:
+- HTML desde 0: https://www.youtube.com/watch?v=3nYLTiY5skU
+- CSS desde 0: https://www.youtube.com/watch?v=hrxjBqZWsb0
+
